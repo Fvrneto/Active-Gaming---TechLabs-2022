@@ -1,6 +1,6 @@
 # Active-Gaming-TechLabs-2022
 
-This repository is the 2022 TechLabs AI project called “Active Gaming”. The goal of the project was to train an AI to enable controlling a video game by movements detected via WebCam. More specifically, it was planned to control the popular game “Snake” by lifting the arms up, down, left, or right. We have achieved to train an AI to take a snapshot with the WebCam and predict the direction the person is showing. 
+This repository is the 2022 TechLabs AI project called “Active Gaming”. The goal of the project was to train an AI to enable controlling a video game by movements detected via WebCam. More specifically, it was planned to control the popular game “Snake” by lifting the arms up, down, left, or right. We have achieved to train an AI to take a snapshot with the WebCam and predict the direction the person is showing. Several models have been tested, best results in the prediction of a WebCam image were achieved with the model based on the pretrained Shufflenet_v2_x1_0 model.
 
 
 The main files in the repository are :
@@ -22,7 +22,7 @@ The repository also contains the following folders:
 
 2.	**Test versions**
 
-    The folder contains preliminary versions, tests of model training and opening images. The older versions have kept in the repository to look back at the process    throughout the project phase.
+    The folder contains preliminary versions, tests of model training and opening images. The older versions have kept in the repository to look back at the process    throughout the project phase. *Note: as the files have been shifted into a different folder, they might not run without adjustments to the file paths anymore*
 
 3.	**Trained models**
 
