@@ -36,6 +36,7 @@ https://drive.google.com/drive/folders/1vSbKkymLKtc7z5EK7DNZUxq6nO2TwSKx
 
 
 Python modules needed to run the programs:
+
 torch
 
 torchvision
